@@ -78,7 +78,9 @@ bash
 Copy
 Edit
 jupyter notebook notebooks/sales_analysis.ipynb
-👤 About Me
+
+
+## 👤 About Me
 
 **Name:** Akash K C
 
