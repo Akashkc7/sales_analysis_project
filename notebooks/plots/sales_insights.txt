@@ -1,0 +1,4 @@
+The best performing quarter is **2024-Q1** with total sales of **₹25,150.00**.
+The top selling category is **Electronics** with sales of **₹13,800.00**.
+The best-selling product is **LED Monitor** with sales of **₹7,000.00**.
+The busiest sales day is **Friday**, generating **₹8,500.00** in sales.
