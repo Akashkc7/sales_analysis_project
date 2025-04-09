@@ -84,7 +84,7 @@ jupyter notebook notebooks/sales_analysis.ipynb
 
 **Name:** Akash K C
 
-**Portfolio:** _Coming Soon_
+**Portfolio:** [Akash's Portfolio](https://Akashkc7.github.io/portfolio/)
 
 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/akash-k-c/)
 
