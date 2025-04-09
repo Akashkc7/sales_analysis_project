@@ -79,10 +79,13 @@ Copy
 Edit
 jupyter notebook notebooks/sales_analysis.ipynb
 👤 About Me
-Name: Akash K C
 
-Portfolio: [Akash's Portfolio](file:///C:/Users/lenovo/Downloads/portfolio/Portfolio-Website-Template-main/index.html)
-LinkedIn: [Connect with me](https://www.linkedin.com/in/akash-k-c/)
+**Name:** Akash K C
+
+**Portfolio:** _Coming Soon_
+
+**LinkedIn:** [Connect with me](https://www.linkedin.com/in/akash-k-c/)
+
 
 
 🌟 Project Highlights
