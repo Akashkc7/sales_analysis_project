@@ -6,6 +6,42 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
+
+# 🛍️ Sales Analysis Project
+
+> Data analysis and insights from sales data for business decision-making.
+
+---
+
+## 🧩 About Me
+
+**👤 Name:** Akash K C  
+**🌐 Portfolio:** [Akash's Portfolio](https://akashkc7.github.io/portfolio/)  
+**💼 LinkedIn:** [Connect with me](https://www.linkedin.com/in/akash-k-c/)
+
+---
+
+## ✨ Project Highlights
+
+- ✅ **Clean and organized code**  
+- ✅ **Professional-level visualizations**  
+- ✅ **Ready for portfolio presentation**  
+- ✅ **Exports and documentation included**  
+
+---
+
+## 📈 Project Overview
+
+This project provides deep insights into sales data by:
+- Analyzing customer behavior
+- Identifying top-selling products
+- Understanding sales trends over time
+- Offering actionable recommendations
+
+---
+
+
+
 Welcome to the Sales Analysis Project!  
 This project provides a complete analysis of sales data to uncover insights, trends, and patterns. It is designed to be a professional portfolio project showcasing skills in data cleaning, analysis, visualization, and reporting.
 
