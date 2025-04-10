@@ -80,5 +80,6 @@ Here are some examples of the visual outputs generated:
 **💼 LinkedIn:** [Connect with me](https://www.linkedin.com/in/akash-k-c/)
 
 ---
-
+🌟 Give it a Star!
+If you find this project useful, consider giving it a ⭐️ on GitHub!
 
