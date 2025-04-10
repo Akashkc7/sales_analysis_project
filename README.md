@@ -71,39 +71,6 @@ Here are some examples of the visual outputs generated:
   <img src="notebooks/plots/sales_by_day_of_week.png" width="400" alt="Sales by Day of Week">
 </p>
 
-## 🧩 Requirements
-
-Install the required libraries using:
-
-```bash
-pip install -r requirements.txt
-📑 How to Run
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/Akashkc7/sales_analysis_project.git
-Navigate to the project folder:
-
-bash
-Copy
-Edit
-cd sales_analysis_project
-Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Open the Jupyter Notebook and run the analysis:
-
-bash
-Copy
-Edit
-jupyter notebook notebooks/sales_analysis.ipynb
-
-
 ---
 
 ## 🧩 About Me
@@ -113,25 +80,5 @@ jupyter notebook notebooks/sales_analysis.ipynb
 **💼 LinkedIn:** [Connect with me](https://www.linkedin.com/in/akash-k-c/)
 
 ---
-
-
-
-
-
-🌟 Project Highlights
-✅ Clean and organized code
-
-✅ Professional-level visualizations
-
-✅ Ready for portfolio presentation
-
-✅ Exports and documentation included
-
-📌 Future Improvements
-Automate report generation
-
-Add interactive dashboards (e.g., Plotly / Dash)
-
-Integrate SQL analysis for advanced insights
 
 
