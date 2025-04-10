@@ -7,19 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
 
-# 🛍️ Sales Analysis Project
 
-> Data analysis and insights from sales data for business decision-making.
-
----
-
-## 🧩 About Me
-
-**👤 Name:** Akash K C  
-**🌐 Portfolio:** [Akash's Portfolio](https://akashkc7.github.io/portfolio/)  
-**💼 LinkedIn:** [Connect with me](https://www.linkedin.com/in/akash-k-c/)
-
----
 
 ## ✨ Project Highlights
 
@@ -116,13 +104,16 @@ Edit
 jupyter notebook notebooks/sales_analysis.ipynb
 
 
-## 👤 About Me
+---
 
-**Name:** Akash K C
+## 🧩 About Me
 
-**🌐 Portfolio:** [Akash's Portfolio](https://Akashkc7.github.io/portfolio/)
-
+**👤 Name:** Akash K C  
+**🌐 Portfolio:** [Akash's Portfolio](https://akashkc7.github.io/portfolio/)  
 **💼 LinkedIn:** [Connect with me](https://www.linkedin.com/in/akash-k-c/)
+
+---
+
 
 
 
